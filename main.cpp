@@ -1,7 +1,7 @@
 #include <iostream>
 
 void greet() {
-    std::cout << "Hello from greet function!" << std::endl;
+    std::cout << "Hello from LOCAL MAIN branch!" << std::endl;
 }
 
 int multiply(int a, int b) {
