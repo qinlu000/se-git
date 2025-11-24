@@ -9,7 +9,7 @@ int multiply(int a, int b) {
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World 123!" << std::endl;
     std::cout << "2 * 3 = " << multiply(2, 3) << std::endl;
     return 0;
 }
