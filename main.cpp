@@ -1,7 +1,7 @@
 #include <iostream>
 
 void greet() {
-    std::cout << "Hello from LOCAL MAIN branch!" << std::endl;
+    cout << "Hello from LOCAL MAIN branch!" << endl;
 }
 
 int multiply(int a, int b) {
@@ -9,7 +9,7 @@ int multiply(int a, int b) {
 }
 
 int main() {
-    std::cout << "Hello, World 123!" << std::endl;
-    std::cout << "2 * 3 = " << multiply(2, 3) << std::endl;
+    cout << "Hello, World 123!" << endl;
+    cout << "2 * 3 = " << multiply(2, 3) << endl;
     return 0;
 }
